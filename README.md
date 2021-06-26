@@ -1,6 +1,6 @@
 # automx
 automx serves to facilitate memex data creation
-memex(https://github.com/kormyen/memex)
+(https://github.com/kormyen/memex)
 
 <h5>Install memex</h5>
 
