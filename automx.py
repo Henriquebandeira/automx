@@ -11,9 +11,6 @@ name = input("Name: ")
 
 if name == "":
 	print("[!] Invalid name")
-	file = open(dir, 'a')
-	file.write("\n`")
-	file.close()
 
 else:
 	name_convert = name.upper()
